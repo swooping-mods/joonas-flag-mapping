@@ -1,5 +1,7 @@
 # J.O.O.N.A.S. Flag Mapping
 
+<img src="media/icon.png" alt="J.O.O.N.A.S. Flag Mapping icon" width="128" height="128">
+
 Nearby robot discoveries persist as amber markers on the map globe.
 
 ## Install
